@@ -1,15 +1,20 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
+  "Team": {
+    "title": "Team",
     "type": "page"
   },
-  "contact": {
-    "title": "Contact ↗",
+  "Open IIUCbot": {
+    "title": "Open IIUCbot ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://t.me/iiucbot",
+    "newWindow": true
+  },
+  "contact": {
+    "title": "Join IIUCbot Group ↗",
+    "type": "page",
+    "href": "https://t.me/+Fx6j4mqFhPUzYTk1",
     "newWindow": true
   }
+  
 }
